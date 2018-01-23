@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Your awesome title</title>
+    <description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
+</description>
+    <link>http://yourdomain.com/</link>
+    <atom:link href="http://yourdomain.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Tue, 23 Jan 2018 08:18:15 -0800</pubDate>
+    <lastBuildDate>Tue, 23 Jan 2018 08:18:15 -0800</lastBuildDate>
+    <generator>Jekyll v3.0.1</generator>
+    
+      <item>
+        <title>Welcome to Jekyll!</title>
+        <description>&lt;p&gt;You’ll find this post in your &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code class=&quot;highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
+
+&lt;p&gt;To add new posts, simply add a file in the &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory that follows the convention &lt;code class=&quot;highlighter-rouge&quot;&gt;YYYY-MM-DD-name-of-post.ext&lt;/code&gt; and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.&lt;/p&gt;
+
+&lt;p&gt;Jekyll also offers powerful support for code snippets:&lt;/p&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+  &lt;span class=&quot;nb&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;Hi, &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;
+&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
+&lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;&#39;Tom&#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+&lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints &#39;Hi, Tom&#39; to STDOUT.&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;p&gt;Check out the &lt;a href=&quot;http://jekyllrb.com/docs/home&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://talk.jekyllrb.com/&quot;&gt;Jekyll Talk&lt;/a&gt;.&lt;/p&gt;
+
+</description>
+        <pubDate>Tue, 23 Jan 2018 07:34:16 -0800</pubDate>
+        <link>http://yourdomain.com/jekyll/update/2018/01/23/welcome-to-jekyll.html</link>
+        <guid isPermaLink="true">http://yourdomain.com/jekyll/update/2018/01/23/welcome-to-jekyll.html</guid>
+        
+        
+        <category>jekyll</category>
+        
+        <category>update</category>
+        
+      </item>
+    
+      <item>
+        <title>Project Benson</title>
+        <description>&lt;h1 id=&quot;project-benson&quot;&gt;Project Benson&lt;/h1&gt;
+
+&lt;h2 id=&quot;exploring-nyc-mta-turnsile-data&quot;&gt;Exploring NYC MTA Turnsile Data&lt;/h2&gt;
+
+&lt;h3 id=&quot;background-info&quot;&gt;Background Info&lt;/h3&gt;
+
+&lt;p&gt;Project Benson consists of playing the part of a data science consultant to the WomenTechWomenYes (WTWY), whose charter is to increase support and awareness for women in technology.  After your initial contact at a recent event, you received a proposal to assist the organization with the placement of their street teams leading up to their annual summer gala.&lt;/p&gt;
+
+&lt;h3 id=&quot;approach&quot;&gt;Approach&lt;/h3&gt;
+
+&lt;p&gt;After receiving the proposal, my partner and I broke the project down into 3 parts:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Definition of objectives and assumptions.&lt;/li&gt;
+  &lt;li&gt;Data identification.&lt;/li&gt;
+  &lt;li&gt;Data acquisition and analysis.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h4 id=&quot;part-1&quot;&gt;Part 1&lt;/h4&gt;
+
+&lt;p&gt;After reviewing the proposal, we determined the multifaceted problem of optimal street team placement was driven by two main objectives, increase attendance and attract monetary support.  From these objectives we derived a target demographic for the WTWY gala.  We made additional assumptions regarding the date of the event as well as the timeline for street team canvassing as well as defined our assumptions regarding the event date and canvassing timeframe.&lt;/p&gt;
+
+&lt;h4 id=&quot;part-2&quot;&gt;Part 2&lt;/h4&gt;
+
+&lt;p&gt;The WTWY client identified NYC MTA turnsile data as their primary data source of interest.  Because the insights available within the MTA turnsile data are limited mainly to foot traffic counts, we spent some time brainstorming and searching the web for potential data sources that would we could link to the MTA data to identify those stations most closely associated with the target demographic.  Our search led to several additional data sets of interest: American Community Survey (ACS) data from the US Census Bureau, ACS data from the NYC Department of City Planning, startup location data from Digital NYC and Built in NYC, and NYC technology Meetup locations.&lt;/p&gt;
+
+&lt;h4 id=&quot;part-3&quot;&gt;Part 3&lt;/h4&gt;
+
+&lt;p&gt;Finally, we got to the fun stuff, actually getting the data and performing exploratory analysis.  Acquiring the MTA turnstile data was fairly straightforward.  It entailed scraping the HTML anchor tags from the MTA website to compile a list of links to each data file, then looping through the list to download each file that fell within the time period of interest.  Obtaining the ACS data was somewhat more painful as this required a deeper understanding of the different aggregation levels of the data as well as a tradeoff in time to download the data at a particular resolution.&lt;/p&gt;
+
+&lt;p&gt;It was getting to be fairly late in the week at this point, given the truncated timeframe due to MLK Day.  Therefore, we decided to concentrate on cleaning and analyzing the data we had before attempting to obtain the other datasets.  This proved to be a fortuitous decision, given the many difficulties encountered when cleaning and linking the datasets that we had.  We also lost a lot time tracking configuration issues while debugging code that would run on my machine but would break on my partner’s.&lt;/p&gt;
+
+&lt;p&gt;Exploring the turnstile data leads to many interesting insights from negative and/or unrealistically high counts.  These were determined to be the result of maintenance actions that lead to unexpected counter resets and modifications. Linking the ACS data to the stations also proved very challenging, requiring the querying of the Google Maps API to determine station addresses relative to our data areas.&lt;/p&gt;
+
+&lt;p&gt;After we linked the ACS data to the MTA turnstile data we could calculate metrics by each station, which was easier but still not exactly easy.  For instance, aggregating the data by station and day wasn’t too bad, but trying to use a finer time resolution was difficult due to the inconsistencies in the time audits.  Theoretically the audits occur every four hours; however, there were a significant number that didn’t follow this regular pattern.  As we were spinning our wheels on this problem, time was once again working againstst us; thus, we decided abandon this effort, especially given the difficulties my partner was having in getting the code to run.&lt;/p&gt;
+
+&lt;p&gt;The grandiose ambitions and ideas we had at the start of the project were ultimately checked due to configuration problems and lack of time.  However, we were still able to pull together a minimally viable product that provided some value to our client in the time allotted.&lt;/p&gt;
+
+&lt;h3 id=&quot;project-summary&quot;&gt;Project Summary&lt;/h3&gt;
+
+&lt;h4 id=&quot;objectives&quot;&gt;Objectives&lt;/h4&gt;
+
+&lt;p&gt;Optimize Placement of WTWY street teams to:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Increase attendance at their annual summer gala.&lt;/li&gt;
+  &lt;li&gt;Attract potential donors to the organization.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;assumptions&quot;&gt;Assumptions&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;WYWT annual gala will be held mid-June 2018.&lt;/li&gt;
+  &lt;li&gt;Street team canvassing will target March through June 2018 timeframe.&lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Target Demographic:&lt;/p&gt;
+
+    &lt;ul&gt;
+      &lt;li&gt;Highly Educated (bachelors degree or higher)&lt;/li&gt;
+      &lt;li&gt;Techology Workers (engineers, scientists, researchers, etc.)&lt;/li&gt;
+      &lt;li&gt;Wealthy Donors (yearly income greater than $200K)&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h5 id=&quot;data-summary&quot;&gt;Data Summary&lt;/h5&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;NYC MTA Turnsile Data: Entry and exit counts for the years 2015 to 2017 during the months of March through June.&lt;/li&gt;
+  &lt;li&gt;5-Year ACS data: Age, sex, income, education level data for the years 2011 to 2016.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;metrics-explored&quot;&gt;Metrics explored&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Foot Traffic (FT)&lt;/li&gt;
+  &lt;li&gt;Median Household Income (MedHH)&lt;/li&gt;
+  &lt;li&gt;Proximity to Wealthy Donors (WD)&lt;/li&gt;
+  &lt;li&gt;Educational Attainment (EA)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;station-scoring&quot;&gt;Station Scoring&lt;/h4&gt;
+
+&lt;p&gt;Station Value = 0.5&lt;em&gt;FT + 0.1&lt;/em&gt;MedHH + 0.1&lt;em&gt;WD + 0.3&lt;/em&gt;EA&lt;/p&gt;
+
+&lt;h4 id=&quot;recommendations&quot;&gt;Recommendations&lt;/h4&gt;
+
+&lt;p&gt;&lt;img src=&quot;./most_valuable_stations_map.png&quot; alt=&quot;Most Valuable Stations Map&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;./most_valuable_stations_barh.png&quot; alt=&quot;Most Valuable Stations Bar Chart&quot; /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Mon, 22 Jan 2018 07:34:16 -0800</pubDate>
+        <link>http://yourdomain.com/jekyll/update/2018/01/22/Project-Benson.html</link>
+        <guid isPermaLink="true">http://yourdomain.com/jekyll/update/2018/01/22/Project-Benson.html</guid>
+        
+        
+        <category>jekyll</category>
+        
+        <category>update</category>
+        
+      </item>
+    
+  </channel>
+</rss>
