@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Project Benson
-date:   2018-01-22 07:34:16 -0800
+date:   2018-01-23 07:00:00 -0800
 categories: jekyll update
 ---
 # Project Benson
@@ -73,10 +73,10 @@ Optimize Placement of WTWY street teams to:
 
 #### Station Scoring
 
-Station Value = 0.5*FT + 0.1*MedHH + 0.1*WD + 0.3*EA
+![Station Value Eqn]({{"/assets/station_value_eqn2.png" | absolute_url}})
 
 #### Recommendations
 
-![Most Valuable Stations Map](./most_valuable_stations_map.png)
+![Station Values Map]({{"/assets/station_values_map.png" | absolute_url}})
 
-![Most Valuable Stations Bar Chart](./most_valuable_stations_barh.png)
+![Most Valuable Stations Bar Chart]({{"/assets/most_valuable_stations_barh.png" | absolute_url}})

@@ -15,7 +15,10 @@ description: > # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://cneiderer.github.io/" # the base hostname & protocol for your site
 github_username:   cneiderer
-linkedin_username: cneiderer
+linkedin_username:   cneiderer
 
 # Build settings
 markdown: kramdown
+
+gems:
+  - jekyll-font-awesome-sass
