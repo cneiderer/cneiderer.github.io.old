@@ -78,3 +78,5 @@ Optimize Placement of WTWY street teams to:
 ![Station Values Map]({{"/assets/station_values_map.png" | absolute_url}})
 
 ![Most Valuable Stations Bar Chart]({{"/assets/most_valuable_stations_barh.png" | absolute_url}})
+
+{{page.tags | capitalize | join: ', '}}
