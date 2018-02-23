@@ -3,9 +3,10 @@ layout: post
 title:  "Optimizing Street Team Placement"
 date:   2018-01-23 07:00:00 -0800
 published: false
-categories: metis
-tags: exploratory_data_analysis
+categories: 
+tags: metis exploratory_data_analysis
 ---
+
 # Where should street teams be placed in NYC?
 
 ## Background Info

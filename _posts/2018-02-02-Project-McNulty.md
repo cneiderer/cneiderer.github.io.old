@@ -3,9 +3,10 @@ layout: post
 title:  Getting Their Money's Worth
 date:   2018-02-02 07:00:00 -0800
 published: false
-categories: metis regression
-tags: linear_regression
+categories: 
+tags: metis regression
 ---
+
 # Are MLS teams getting what they pay for?
 
 ## Intro
