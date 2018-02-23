@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Science or Bullshit?
-date:   2018-01-22 07:00:00 -0800
+date:   2018-02-22 07:00:00 -0800
 published: true
 categories: metis supervised_learning sql
 tags: logistic_regression support_vector_machines naive_bayes k_nearest_neighbors decision_trees random_forests postgresql flask d3
