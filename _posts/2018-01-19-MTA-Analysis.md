@@ -2,7 +2,7 @@
 layout: post
 title:  "NYC: Optimizing Street Team Placement"
 date:   2018-01-20 07:00:00 -0800
-published: false
+published: true
 categories: [cat1, cat2]
 tags: [tag1, tag2]
 ---

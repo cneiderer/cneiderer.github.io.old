@@ -2,7 +2,7 @@
 layout: post
 title:  "Wine Reviews: Science or Bullshit?"
 date:   2018-02-22 07:00:00 -0800
-published: false
+published: true
 categories: [cat1, cat2]
 tags: [tag1, tag2]
 ---
