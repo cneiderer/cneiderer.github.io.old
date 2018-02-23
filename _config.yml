@@ -19,6 +19,7 @@ linkedin_username:   cneiderer
 
 # Build settings
 markdown: kramdown
+remote_theme: lanyon
 
 gems:
   - jekyll-font-awesome-sass
