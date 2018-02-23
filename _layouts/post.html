@@ -12,6 +12,13 @@ layout: default
     {{ content }}
   </div>
 
+  <div class="post-tags">
+    {% if post.tags.size > 0 %}
+      Tag{% if post.tags.size > 1 %}s{% endif %}:
+      {{ post.tags | sort | join: ", " }}
+    {% endif %}
+  </div>
+
   <div class="post-categories">
     {% if post %}
       {% assign categories = post.categories %}
