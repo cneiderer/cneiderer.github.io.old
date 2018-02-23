@@ -6,8 +6,6 @@ published: true
 categories: 
 tags: metis exploratory_data_analysis
 ---
-# Where should street teams be placed in NYC?
-
 ## Background Info
 
 Project Benson consists of playing the part of a data science consultant to the WomenTechWomenYes (WTWY), whose charter is to increase support and awareness for women in technology.  After your initial contact at a recent event, you received a proposal to assist the organization with the placement of their street teams leading up to their annual summer gala.
