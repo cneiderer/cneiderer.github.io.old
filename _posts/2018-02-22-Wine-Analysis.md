@@ -6,11 +6,6 @@ published: true
 categories: [cat1, cat2]
 tags: [tag1, tag2]
 ---
-{% if post.tags.size > 0 %}
-  Tag{% if post.tags.size > 1 %}s{% endif %}:
-  {{ post.tags | sort | join: ", " }}
-{% endif %}
-
 ## Intro
 
 
