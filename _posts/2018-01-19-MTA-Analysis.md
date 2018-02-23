@@ -2,9 +2,9 @@
 layout: post
 title:  "NYC: Optimizing Street Team Placement"
 date:   2018-01-20 07:00:00 -0800
-published: true
-categories: [metis, exploratory data analysis]
-tags:  
+published: false
+categories: [cat1, cat2]
+tags: [tag1, tag2]
 ---
 ## Background Info
 

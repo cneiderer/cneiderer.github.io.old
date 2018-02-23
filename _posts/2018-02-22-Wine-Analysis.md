@@ -2,9 +2,9 @@
 layout: post
 title:  "Wine Reviews: Science or Bullshit?"
 date:   2018-02-22 07:00:00 -0800
-published: true
-categories: [Supervised Learning, SQL, Python]
-tags: [Logistic Regression] 
+published: false
+categories: [cat1, cat2]
+tags: [tag1, tag2]
 ---
 {% if post.tags.size > 0 %}
   Tag{% if post.tags.size > 1 %}s{% endif %}:
