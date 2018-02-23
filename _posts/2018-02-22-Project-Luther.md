@@ -1,22 +1,55 @@
 ---
 layout: post
-title:  Wine Reviews: Science or Bullshit
+title:  Science or Bullshit?
 date:   2018-01-22 07:00:00 -0800
-categories: jekyll update
+published: true
+categories: metis supervised_learning sql
+tags: logistic_regression support_vector_machines naive_bayes k_nearest_neighbors decision_trees random_forests postgresql flask d3
 ---
-# Project Luther
+# Wine Reviews: Science or Bullshit?
 
-## Wine Reviews: Science or Bullshit?
-
-### Intro
+## Intro
 
 
-### Data Summary
+## Data Summary
 
 
-### Methodology
+## Methodology
 
 
-### Exploratory Analysis
+## Exploratory Analysis
+
+
+## Data Preprocessing
+
+
+## Model Building & Evaluation
+
+
+## Logistic Regression
+
+
+## Support Vector Machines
+
+
+## Naive Bayes
+
+
+## K-Nearest Neighbors
+
+
+## Decision Trees
+
+
+## Random Forests
+
+
+## Conclusion
+
+
+## Challenges & Lessons Learned
+
+
+## Future Work
 
 

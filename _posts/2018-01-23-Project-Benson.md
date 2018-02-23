@@ -1,14 +1,14 @@
 ---
 layout: post
-title:  Project Benson
+title:  "Optimizing Street Team Placement"
 date:   2018-01-23 07:00:00 -0800
-categories: jekyll update
+published: false
+categories: metis
+tags: exploratory_data_analysis
 ---
-# Project Benson
+# Where should street teams be placed in NYC?
 
-## Exploring NYC MTA Turnsile Data
-
-### Background Info
+## Background Info
 
 Project Benson consists of playing the part of a data science consultant to the WomenTechWomenYes (WTWY), whose charter is to increase support and awareness for women in technology.  After your initial contact at a recent event, you received a proposal to assist the organization with the placement of their street teams leading up to their annual summer gala.
 
@@ -59,7 +59,7 @@ Optimize Placement of WTWY street teams to:
   * Techology Workers (engineers, scientists, researchers, etc.)
   * Wealthy Donors (yearly income greater than $200K)
 
-##### Data Summary
+#### Data Summary
 
 * NYC MTA Turnsile Data: Entry and exit counts for the years 2015 to 2017 during the months of March through June.
 * 5-Year ACS data: Age, sex, income, education level data for the years 2011 to 2016.
