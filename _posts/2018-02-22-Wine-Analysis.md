@@ -6,6 +6,11 @@ published: true
 categories: [Supervised Learning, SQL, Python]
 tags: [Logistic Regression] 
 ---
+{% if post.tags.size > 0 %}
+  Tag{% if post.tags.size > 1 %}s{% endif %}:
+  {{ post.tags | sort | join: ", " }}
+{% endif %}
+
 ## Intro
 
 
