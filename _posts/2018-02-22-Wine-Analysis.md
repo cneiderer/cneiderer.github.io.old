@@ -6,9 +6,6 @@ published: true
 categories: 
 tags: metis supervised learning logistic_regression support_vector_machines naive_bayes k_nearest_neighbors decision_trees random_forests ordinal_regression postgresql flask d3
 ---
-# Wine Reviews: Science or Bullshit?
-
-
 ## Intro
 
 
