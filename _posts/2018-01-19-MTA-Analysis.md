@@ -3,7 +3,7 @@ layout: post
 title:  "NYC: Optimizing Street Team Placement"
 date:   2018-01-20 07:00:00 -0800
 published: true
-categories: 
+categories: exploratory_data_analysis
 tags: metis exploratory_data_analysis
 ---
 ## Background Info
@@ -79,4 +79,4 @@ Optimize Placement of WTWY street teams to:
 
 ![Most Valuable Stations Bar Chart]({{"/assets/most_valuable_stations_barh.png" | absolute_url}})
 
-{{page.tags | capitalize | join: ', '}}
+{{page.categories | capitalize | join: ', '}}
